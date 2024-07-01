@@ -1,0 +1,23 @@
+#id-line-two {
+    color  : #0000ff;
+    font-size: 36px;
+}
+
+#id-line-four {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd{
+    background-color: #f08080;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* .even {
+    background-color: red;
+} */
+
+.odd.element-three{
+    font-size: 24px;
+}
